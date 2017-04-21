@@ -1,12 +1,55 @@
+body{
+  background-color: #e8edf3;
+  color: white;
+}
 img{
   height: 100px;
   float:right;
 }
 
-#header {
+#header .panel-body {
   text-align: center;
+  background-color: #e6cf8b;
+  color: #22264b;
+  font-weight: bold;
+}
+
+#header p{
+  display: inline;
+  letter-spacing: 1px;
+  word-spacing: 130px;
+}
+
+#about .panel-body{
+  background-color: #b56969;
+}
+
+#hobbies .panel-body{
+  background-color: #b56969;
+}
+
+#footer .panel-body{
+  background-color: #b56969;
+  }
+
+.panel-heading{
+  background-color: #e6cf8b;
+  color: #22264b;
 }
 
 button {
   float:right;
+}
+
+.ep {
+  color: #e6cf8b;
+}
+
+a{
+  color: white;
+  text-decoration: underline;
+}
+
+a:hover{
+  color:red;
 }
