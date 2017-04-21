@@ -14,6 +14,10 @@ img{
   font-weight: bold;
 }
 
+#header{
+  padding-right: 30px;
+}
+
 #header p{
   display: inline;
   letter-spacing: 1px;
@@ -28,6 +32,9 @@ img{
   background-color: #b56969;
 }
 
+#footer{
+  padding-right: 30px;
+}
 #footer .panel-body{
   background-color: #b56969;
   }
@@ -35,6 +42,9 @@ img{
 .panel-heading{
   background-color: #e6cf8b;
   color: #22264b;
+}
+.panel-title{
+  text-align: center;
 }
 
 button {
