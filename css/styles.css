@@ -16,6 +16,7 @@ img{
 
 #header{
   padding-right: 30px;
+  float:inherit;
 }
 
 #header p{
@@ -26,14 +27,17 @@ img{
 
 #about .panel-body{
   background-color: #b56969;
+  float:inherit;
 }
 
 #hobbies .panel-body{
   background-color: #b56969;
+  float:inherit;
 }
 
 #footer{
   padding-right: 30px;
+  float:inherit;
 }
 #footer .panel-body{
   background-color: #b56969;
